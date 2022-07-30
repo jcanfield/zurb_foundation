@@ -10,7 +10,7 @@ GEM
     hike (1.2.1)
     libv8 (3.3.10.4)
     multi_json (1.6.1)
-    rack (1.5.2)
+    rack (1.6.13)
     sass (3.2.6)
     slop (3.3.2)
     sprockets (2.9.0)
